@@ -34,7 +34,7 @@
 </p>
 
 <br>
-<h3>백준 프로필</h3>
+<h3>백준 온라인 저지 프로필</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongwoo0525)](https://solved.ac/jeongwoo0525/)
 
