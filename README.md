@@ -5,9 +5,9 @@
 </div>
 
 <h3>👋 Biography 👋</h3>
-<hr>
+
 <li>Name: JeongWoo Song</li>
-<li>interested in: <b>Web Development, Data Analysis,</b> ML/DL</li> <br>
+<li>interested in: <b>Software Development, Data Analysis,</b> ML/DL</li> <br>
 <li>🌱 I’m currently learning:</li> <br>
 <!-- <li>관심사: <b>웹개발, 데이터분석,</b> ML/DL</li> -->
 
@@ -15,11 +15,9 @@
 | ------ | ---- | ---- |
 | [스마트웹&콘텐츠개발] 스마트 웹 자바(JAVA)개발자 | 2021.05.11 ~ 2021.10.25 | 이젠컴퓨터학원 |
 | [KT] AIVLE School AI 개발자 1기 | 2021.12.14 ~ 2022.05.18 | KT |
-
 <br>
-<!-- <h3>언어 및 기술</h3> -->
 <h3>🛠 Tech Stack 🛠</h3> <br>
-<!-- <hr> -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -39,14 +37,12 @@
 </p>
 
 <br>
-<!-- <h3>백준 온라인 저지 프로필</h3> -->
+
 <h3>📚 BOJ Profile 📚</h3> <br>
-<!-- <hr> -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongwoo0525)](https://solved.ac/jeongwoo0525/)
 
 <br>
-
 <h3>📚 Github Stats 📚</h3> <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=songjeongwoo)](https://github.com/anuraghazra/github-readme-stats)
