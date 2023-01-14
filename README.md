@@ -11,11 +11,12 @@
 <li>🌱 I’m currently learning:</li> <br>
 <!-- <li>관심사: <b>웹개발, 데이터분석,</b> ML/DL</li> -->
 
-| Certificated programs | Training period | Organization |
+| Certificated programs & Position | Training period | Organization |
 | ------ | ---- | ---- |
 | [스마트웹&콘텐츠개발] 스마트 웹 자바(JAVA)개발자 | 2021.05.11 ~ 2021.10.25 | 이젠컴퓨터학원 |
 | [KT] AIVLE School AI 개발자 1기 | 2021.12.14 ~ 2022.05.18 | KT |
 | 클라우드 컴퓨팅 기초(Cloud 101) | 2022.05.31 ~ 2022.06.28 | K-MOOC |
+| 응용SW개발 | 2022.07.07 ~ | ktds |
 <br>
 <h3>🛠 Tech Stack 🛠</h3> <br>
 
